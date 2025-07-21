@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarViewGettingStarted", "AvatarViewGettingStarted.csproj", "{C34D08B6-8B65-43A5-B9A6-039DD4ED89BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34D08B6-8B65-43A5-B9A6-039DD4ED89BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34D08B6-8B65-43A5-B9A6-039DD4ED89BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34D08B6-8B65-43A5-B9A6-039DD4ED89BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34D08B6-8B65-43A5-B9A6-039DD4ED89BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9D2905-AA88-4653-AFE1-111F2B971BE8}
+	EndGlobalSection
+EndGlobal

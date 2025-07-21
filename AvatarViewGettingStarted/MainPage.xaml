@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sfavatar="clr-namespace:Syncfusion.Maui.Core;assembly=Syncfusion.Maui.Core"
+             x:Class="AvatarViewGettingStarted.MainPage">
+
+    <ContentPage.Content>
+        <Grid>
+            <sfavatar:SfAvatarView ContentType="Custom"
+                           ImageSource="alex.png"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"   
+                           HeightRequest="100"
+                           CornerRadius="50"
+                           WidthRequest="100" 
+                           Stroke="Black"
+                           StrokeThickness="2"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
